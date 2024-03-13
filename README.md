@@ -1,5 +1,7 @@
-### Hello 👋, I'm Haluk Hindistan
+## Hello 👋, I'm Haluk Hindistan
 
+
+- 👨‍💻 I'm a Geomatics Engineering student with a passion for programming
 - 👀 I'm interested in: WEB Programming, Image Processing, and Data Science
 - 🌱 I'm currently learning: JavaScript, Python, and SQL 
 - 📫 How to reach me: halukhndstn@gmail.com
