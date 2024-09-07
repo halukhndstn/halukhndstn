@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I'm a Geomatics Engineering student with a passion for programming
-- 👀 I'm interested in: WEB Programming, Image Processing, and Data Science
+- 👀 I'm interested in: WEB Programming, Image Processing, QGIS Plugin Development and Data Science
 - 🌱 I'm currently learning: JavaScript, Python, and SQL 
 - 📫 How to reach me: halukhndstn@gmail.com
 
@@ -13,6 +13,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-3EAA37?style=flat-square&logo=qgis&logoColor=white)
 
 <!---
 halukhndstn/halukhndstn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
